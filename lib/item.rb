@@ -1,3 +1,5 @@
+require './lib/topping.rb'
+require './lib/batter.rb'
 
 class Item
   def initialize(item)
